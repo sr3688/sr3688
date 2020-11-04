@@ -23,16 +23,16 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 |  Command line |   <img src="https://www.flaticon.com/svg/static/icons/svg/2535/2535492.svg" length=50px; height="50px">  |
                 
 
-### What am i learning :question: :point_down:
+### What am I learning :question: :point_down:
 
-<p text-align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p>
+<p ><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p>
 
 ### How can you contact me :question: :point_down: |Just drop me a message|
 
 <p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" length=40px; height=40px></a>  <h4><b>:surajrai6779@gmail.com</b></h4>
 </p>
 
-<img src="hhttps://www.flaticon.com/svg/static/icons/svg/732/732200.svg" length=40px; height=40px>
+<img src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" length=40px; height=40px>
  
 
 
