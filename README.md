@@ -1,6 +1,6 @@
    | Hi There ! I'M SURAJ RAI :smiley:|
    ===============================================================================================================================================================
-   Programming Enthusiast :fire:
+   ## Programming Enthusiast :fire:
    
 ### Who am I :question:
 
@@ -29,7 +29,9 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 
 ### How can you contact me? :point_down:
 
-<p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg"></a></p>
+<p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" length=50px; height="50px" "></a>
+   
+   </p>
 
 
 
