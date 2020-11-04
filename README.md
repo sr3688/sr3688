@@ -29,9 +29,9 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 
 ### How can you contact me :question: :point_down: |Just drop me a message|
 
-<p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" length=40px; height="40px" "></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="hhttps://www.flaticon.com/svg/static/icons/svg/732/732200.svg" length=40px; height="40px" "><h4><b>:surajrai6779@gmail.com</b></h4>
- </p>
+<p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg" length=40px; height=40px></a> <img src="hhttps://www.flaticon.com/svg/static/icons/svg/732/732200.svg" length=40px; height=40px> <h4><b>:surajrai6779@gmail.com</b></h4>
+</p>
+ 
 
 
 
