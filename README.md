@@ -1,6 +1,6 @@
-                                                               | Hi There ! I'M SURAJ RAI :smiley:|
+   | Hi There ! I'M SURAJ RAI :smiley:|
    ===============================================================================================================================================================
-   <h2 styel="text-align:center">Programming Enthusiast</h2> :fire:
+   Programming Enthusiast :fire:
    
 ### Who am I :question:
 
@@ -28,6 +28,8 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 <p text-align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p>
 
 ### How can you contact me? :point_down:
+
+<p><a href="https://www.linkedin.com/in/sr3688/"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111499.svg"></a></p>
 
 
 
