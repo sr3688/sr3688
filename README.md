@@ -1,5 +1,5 @@
-   # | Hi There ! I'M SURAJ RAI :smiley:|
-   <h2 text-align="center">Programming Enthusiast</h2> :fire:
+   # | Hi There ! I'M SURAJ RAI :smiley:|---------->
+   <h2 styel="text-align:center">Programming Enthusiast</h2> :fire:
    
 ### Who am I :question:
 
@@ -24,7 +24,11 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 
 ### What am i learning :question: :point_down:
 
-<p text-align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px"> <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p>
+<p text-align="center"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p>
+
+### How can you contact me? :point_down:
+
+
 
 
 
