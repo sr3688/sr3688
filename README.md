@@ -5,4 +5,5 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 ## What do I Know :question:
 -C++ <img src="https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg">
 # What am i learning :question:
+- C++ ![] (https://en.wikipedia.org/wiki/C%2B%2B#/media/File:ISO_C++_Logo.svg)
 
