@@ -1,13 +1,17 @@
-<h1 style="test-align: center">| Hi There ! | :smiley:</h1> :smiley:
+##                                                                      | Hi There ! | :smiley:
+
 ## Who am I :question:
 Well ! I am an undergraduate student at Delhi University (School of Open Learning) persuing **Bachelor of Arts**. Although it wasn't my plan, just like a Science Stream student i also wanted to get into a well reputed engineering college but sometimes things don't turn out the way you want. It turns out that I would have to be a Self-taught Developer. Currently I am persuing a Deploma in Software Engineering (Web Development). Teaching oneself how to code can be chellenging but i guess this is the only path which cah take me where I want to be. So, with all the positivity I have started my journey and I hope a technical degree dose't matter as much as i thought it does.
 
-## What do I Know :question:
+## Education
+- Intermediate Schooling with PCM
+- Graduation in Bechalor of Arts (Will graduate in 2021)
 
-<p><img src="https://camo.githubusercontent.com/790c54976ef6e16883aae6dc36b157254e4bf27e/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f3132303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67" length=50px; height="50px"> <img src="https://as2.ftcdn.net/jpg/02/52/48/71/500_F_252487133_eSmdQF9sMUK0rLSG8LEIoBAjVkjxy4PT.jpg length=50px; height="50px"></p>
+## What do I Know :question: :point_down:
 
-# What am i learning :question:
+<p><img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"length=50px; height="50px"></p>  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"length=50px; height="50px"></p>  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"length=50px; height="50px"></p>  <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"length=50px; height="50px"></p>  <img src="https://www.flaticon.com/svg/static/icons/svg/2535/2535492.svg"length=50px; height="50px"></p>  <img src=""length=50px; height="50px"></p>  <img src=""length=50px; height="50px"></p>  <img src=""length=50px; height="50px"></p>
 
-- HTML
-- CSS
-- Javascript
+# What am i learning :question: :point_down:
+
+<p> <ul><li>HTML</li><li>CSS</li><li>Javascript</li></ul></p>
+
