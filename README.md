@@ -13,10 +13,13 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 
 |  Language      |     | 
 | :------------- | :----------: | 
-|  C | <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg"length=50px; height="50px">   | 
-|  C++| Put Pipes In | 
+|  C | <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" length=50px; height="50px">   | 
+|  C++| <img src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg"length=50px; height="50px"> | 
+|  Git    |   <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg"length=50px; height="50px">   |
+|  Github |   <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"length=50px; height="50px">   |
+|  Command line |   <img src="https://www.flaticon.com/svg/static/icons/svg/2535/2535492.svg"length=50px; height="50px">  |
 
 ### What am i learning :question: :point_down:
 
-<p> <ul><li>HTML</li><li>CSS</li><li>Javascript</li></ul></p>
+<p> <ul><li>HTML</li> <li>CSS</li> <li>Javascript</li> </ul></p>
 
