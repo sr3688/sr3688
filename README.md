@@ -17,20 +17,11 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 
 ### What do I Know :question: :point_down:
 
+- C++
+- Git
+- Command Line
 
-
-|  Language      |     | 
-| :-------------: | :----------: | 
-|  C | <img src="https://www.flaticon.com/svg/static/icons/svg/3600/3600912.svg" length=50px; height="50px">   | 
-|  C++| <img src="https://www.flaticon.com/svg/static/icons/svg/919/919841.svg" length=50px; height="50px"> | 
-|  Git    |   <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111288.svg" length=50px; height="50px">   |
-|  Github |   <img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg" length=50px; height="50px">   |
-|  Command line |   <img src="https://www.flaticon.com/svg/static/icons/svg/2535/2535492.svg" length=50px; height="50px">  |
                 
-
-
-
-
 <!--<p ><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p> %-->
 
 ### How can you contact me :question: :point_down: |Just drop me a message|
