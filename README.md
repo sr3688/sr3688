@@ -10,6 +10,9 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 - Intermediate Schooling with PCM
 - Graduation in Bechalor of Arts (Will graduate in 2021)
 
+### Currently Learning
+-Python
+
 ### What do I Know :question: :point_down:
 
 
