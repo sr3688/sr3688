@@ -10,6 +10,9 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 - Intermediate Schooling with PCM
 - Graduation in Bechalor of Arts (Will graduate in 2021)
 
+### Status :question: :point_down:
+- Learning Python
+- Learning DSA with C++
 
 
 ### What do I Know :question: :point_down:
@@ -25,12 +28,10 @@ Well ! I am an undergraduate student at Delhi University (School of Open Learnin
 |  Command line |   <img src="https://www.flaticon.com/svg/static/icons/svg/2535/2535492.svg" length=50px; height="50px">  |
                 
 
-### Status :question: :point_down:
-- Learning Python
-- Learning DSA with C++
 
 
-<!--<p ><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p> %--!>
+
+<!--<p ><img src="https://www.flaticon.com/svg/static/icons/svg/732/732212.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" length=50px; height="50px">&nbsp&nbsp&nbsp  <img src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" length=50px; height="50px">&nbsp&nbsp&nbsp <img src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" length=50px; height="50px"></p> %-->
 
 ### How can you contact me :question: :point_down: |Just drop me a message|
 
